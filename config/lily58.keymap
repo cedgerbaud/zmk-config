@@ -70,8 +70,8 @@
 };
 
 // RGB Light configuration
-&led_strip {
-    chain-length = <6>;
-};
+// &led_strip {
+//    chain-length = <6>;
+//};
 
-&studio_unlock
+// &studio_unlock
