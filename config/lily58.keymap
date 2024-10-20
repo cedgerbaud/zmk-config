@@ -68,3 +68,10 @@
         };
     };
 };
+
+// RGB Light configuration
+&led_strip {
+    chain-length = <6>;
+};
+
+&studio_unlock
